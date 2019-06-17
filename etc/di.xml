@@ -36,4 +36,8 @@
 			</argument>
 		</arguments>
 	</type>
+	<preference for="Amrendra\CustomCatalog\Api\VpnInterface"
+                type="Amrendra\CustomCatalog\Model\Vpnmodel" />
+    <preference for="Amrendra\CustomCatalog\Api\ProductInterface"
+                type="Amrendra\CustomCatalog\Model\Productmodel" />
 </config>
